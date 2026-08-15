@@ -1,10 +1,10 @@
 BASE client:
-![Preview](/images/image2.png)
+![Preview](image2.png)
 
 
 AFTER FORK:
 
-![Preview](/images/theme.png)
+![Preview](/theme.png)
 
 **Miau Minus** is a cleaned-up project based on the **Project-Miau** base, created to continue improving, refining, and expanding the client.
 ## Contributing
