@@ -7,6 +7,9 @@ AFTER FORK:
 ![Preview](/theme.png)
 
 **Miau Minus** is a cleaned-up project based on the **Project-Miau** base, created to continue improving, refining, and expanding the client.
+
+**THIS CLIENT IS OPEN SOURCE (1.0.9)**
+
 ## Contributing
 
 [![Discord](https://invidget.switchblade.xyz/SMKkrhs7M)](https://discord.gg/SMKkrhs7M)
